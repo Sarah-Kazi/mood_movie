@@ -1,13 +1,13 @@
 // Firebase Configuration
   // Replace with your own Firebase config
   const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID",
-    measurementId: "YOUR_MEASUREMENT_ID"
+    apiKey: "AIzaSyAES3hvvInGAuk-XjxcM7FpBqK0ZXulKl8",
+    authDomain: "moodmatcher-62015.firebaseapp.com",
+    projectId: "moodmatcher-62015",
+    storageBucket: "moodmatcher-62015.appspot.com",
+    messagingSenderId: "965935844809",
+    appId: "1:965935844809:web:f84586b7109ea7a3b6ac18",
+    measurementId: "G-PFTGM7379G"
   };
 
 // Initialize Firebase
