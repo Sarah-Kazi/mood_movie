@@ -14,6 +14,8 @@ MoodMatcher is a web app that analyzes your mood and recommends a movie based on
    ```
    npm install
    ```
+   run quick start to use the demo version that does not require api keys.
+   otherwise:
 
 3. **Set up environment variables**
    - Copy `.env.example` to `.env` and fill in your API keys (Groq, Firebase, YouTube, etc).
@@ -23,6 +25,6 @@ MoodMatcher is a web app that analyzes your mood and recommends a movie based on
    node server/server.js
    ```
 
-5. **Open the app**
+6. **Open the app**
    - Go to `http://localhost:3000` in your browser.
 
