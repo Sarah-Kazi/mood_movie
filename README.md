@@ -6,8 +6,8 @@ MoodMatcher is a web app that analyzes your mood and recommends a movie based on
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/your-username/moodmatcher-fresh.git
-   cd moodmatcher-fresh
+   git clone https://github.com/Sarah-Kazi/mood_movie_.git
+   cd mood_movie_
    ```
 
 2. **Install dependencies**
