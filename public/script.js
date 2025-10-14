@@ -22,7 +22,6 @@ const auth = getAuth(app);
 // Global chart instance
 let moodChart = null;
 
-// API Base URL
 // Dynamic API URL that works everywhere
 const API_BASE_URL = window.location.hostname.includes('netlify.app') 
   ? "https://mood-movie.onrender.com/api"  // Netlify previews use Render backend
