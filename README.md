@@ -22,7 +22,7 @@ MoodMatcher is a web app that analyzes your mood and recommends a movie based on
 
 4. **Start the server**
    ```
-   node server/server.js
+   npm start
    ```
 
 6. **Open the app**
