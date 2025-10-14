@@ -19,6 +19,7 @@ MoodMatcher is a web app that analyzes your mood and recommends a movie based on
 
 3. **Set up environment variables**
    - Copy `.env.example` to `.env` and fill in your API keys (Groq, Firebase, YouTube, etc).
+   - Add a firebaseconfig.js file to add firebase credentials
 
 4. **Start the server**
    ```
