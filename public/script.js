@@ -24,7 +24,7 @@ let moodChart = null;
 
 // Dynamic API URL that works everywhere
 const API_BASE_URL = window.location.hostname.includes('netlify.app') 
-  ? "https://mood-movie.onrender.com/api"  // Netlify previews use Render backend
+  ? "https://mood-movie.onrender.com/api"  
   : window.location.hostname === 'localhost' 
     ? "http://localhost:3000/api"           // Local development
     : "/api";                               // Production on Render
